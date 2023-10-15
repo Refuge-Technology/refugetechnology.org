@@ -275,10 +275,9 @@ body {
 }
 
 .first { 
-    background: url('../assets/cyberpunkcity.svg');
-    background-repeat: repeat-y;
+    background: url('../assets/humanitythrucode.svg');
     background-size: cover;
-    background-position: 20%;
+    background-position: 80%;
     height: 100%;
     width: 100%;
 }
@@ -451,13 +450,15 @@ h2.hero-subtitle.second.aos-init.aos-animate {
 
 .worldWeb3 {
     font-size: 3rem;
-    text-shadow: 5px 5px 5px #031623;
+    font-weight: 500;
+    text-shadow: 2px 2px 2px #031623;
 }
 
 .future {
     font-style: italic;
-    color: #65dc98;
-    text-shadow: 5px 5px 5px #031623;
+    background-color: #469F74;
+    text-shadow: 1px 1px 1px #031623;
+    width: 30%;
 }
 
 .hero-title.whitepaper-title {
